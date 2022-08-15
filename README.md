@@ -1,1 +1,3 @@
-# RL_finance
+# RL_financ
+
+Baseline of RL trading
